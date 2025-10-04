@@ -1,7 +1,2 @@
-# hello-world
-The first step!
-
-Hi everyone!
-I am Kainaat and I am passionate to mark a distiction of being a good coder.
-I believe, I can give my best to it!
-
+let price: Decimal = 5
+amount.formatted(.currency(code: "EUR")) //where EUR stands as a code for Euro 
